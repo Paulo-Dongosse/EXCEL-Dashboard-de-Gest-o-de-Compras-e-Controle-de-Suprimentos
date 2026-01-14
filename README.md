@@ -3,7 +3,7 @@
 <p align="center">
   <img src="cap1.png" width="32%" />
   <img src="cap2.png" width="32%" />
-  <img src="ini3.png" width="32%" />
+  <img src="dashboard.gif" width="32%" />
 </p>
 
 Este projeto consiste na criação de um **painel interativo de gestão de compras** utilizando Excel Avançado e Tabelas Dinâmicas, com foco em transformar dados operacionais em informações estratégicas para apoio à tomada de decisão.
